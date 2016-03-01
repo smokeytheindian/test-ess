@@ -1,0 +1,18 @@
+# Report Class 1 - Geospatial ESS
+## Task 1.2
+### Steps Undertaken
+used mkdir to create Homework1 directory folder
+
+used cd to change directory to Homework1 folder
+
+used touch to create a textpost titled "1_2" 
+
+used mv ../img-thing.jpg Homework1 to download image into directory
+
+typed ls to list files in directory
+
+made a text file called list.txt using touch command. then wrote ls > list.txt to move the list into aforementioned
+text file
+
+##Task 1.3
+### Steps Undertaken
